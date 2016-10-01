@@ -1,0 +1,4 @@
+2016-09-27 23:22:34 - INFO --> Usuario 1dc77330-5a2d-47e9-a545-af5d5719f44e Logado com Sucesso
+2016-09-27 23:33:08 - INFO --> Usuario 1dc77330-5a2d-47e9-a545-af5d5719f44e Deslogado com Sucesso
+2016-09-27 23:33:15 - INFO --> Usuario 1dc77330-5a2d-47e9-a545-af5d5719f44e Logado com Sucesso
+2016-09-27 23:33:25 - INFO --> Usuario 1dc77330-5a2d-47e9-a545-af5d5719f44e Deslogado com Sucesso

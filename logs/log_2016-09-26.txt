@@ -1,0 +1,2 @@
+2016-09-26 20:52:35 - INFO --> Usuario (0) Cadastrado com Sucesso.
+2016-09-26 20:52:49 - INFO --> Usuario Logado com Sucesso
